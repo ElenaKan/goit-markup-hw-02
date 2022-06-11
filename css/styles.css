@@ -314,6 +314,7 @@ body {
 
 .filter-examples {
   display: flex;
+  justify-content: center;
   flex-flow: row wrap;
 }
 
